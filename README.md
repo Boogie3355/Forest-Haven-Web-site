@@ -5,8 +5,6 @@ Forest Haven is a serene and responsive website designed to promote eco-tourism,
 Visit Forest Haven on Firebase
 (https://forest-haven-61368.web.app)
 
-📸 Preview
-
 🚀 Features
 🌿 Beautiful and responsive design
 
@@ -28,3 +26,5 @@ CSS3 – Custom styling, media queries
 JavaScript – Interactive components, animations
 
 Firebase Hosting – Fast and reliable deployment# Forest-Haven-Web-site
+
+📸 Preview
